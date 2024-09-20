@@ -1,6 +1,5 @@
 # hello-world
 first repository
-This is the edit
 
 *this is italic text*
 
